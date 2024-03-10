@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning software  engineering<br>👯 I’m looking to collaborate on open source projects<br>🌱 Currently an ALX SE student<br>💬 Programming and logistics<br>⚡ Passion brought me here
+🔭 I’m currently learning software  engineering<br>👯 I’m looking to collaborate on open source projects<br>💬 Programming and logistics<br>⚡ Passion brought me here
 
 
 ## 🌐 Socials:
