@@ -25,3 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=AVATARXAANG&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AVATARXAANG&label=Profile%20Views&icon=8&pretty=false" />
+</a>
