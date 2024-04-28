@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning software  engineering<br>👯 I’m looking to collaborate on open source projects<br>💬 Programming and logistics<br>⚡ Passion brought me here
+🔭 I’m currently learning software  engineering<br>👯 <h1I’m looking to collaborate on open source projects<h1><br>💬 Programming and logistics<br>⚡ Passion brought me here
 
 
 ## 🌐 Socials:
