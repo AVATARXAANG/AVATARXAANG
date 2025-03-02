@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently learning software  engineering<br>👯 <h3>I’m looking to collaborate on open source projects</h3><br>💬 Programming and logistics<br>⚡ Passion brought me here
+A passionate Front-End Developer with a focus on building dynamic, scalable web applications using the React framework. With a solid foundation in JavaScript, HTML, and CSS, I specialize in creating modern, responsive user interfaces that are not only visually appealing but also highly performant.
+
+Leveraging React's component-based architecture, I focus on building reusable, maintainable code while ensuring seamless integration with backend services and third-party APIs. I’m committed to optimizing user experience, from quick load times to smooth interactions, all while keeping the codebase clean and efficient.
 
 
 ## 🌐 Socials:
